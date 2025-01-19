@@ -1,59 +1,86 @@
-<header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<html><head><meta charset="utf-8"><base href="http://127.0.0.1:52994/"></head><body><style>
+img { max-width: 100%; }
+tr { page-break-inside:avoid; page-break-after:auto }
+td { page-break-after:auto; }
+td { border: 1px solid #ccc; padding: 1em; }
+.playImage { display: none; }
+</style><table cellspacing=10 width=100%><tr><td width="33.333333333333336%"><center>Angiogenes: Remodellering av blodkärl
+[[typebox:Back]]
 
-# GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+<hr id=answer>
 
-</header>
+Specificering av artär/ven<br><br>Sprouting angiogenesis<br>- Bildandet av nya blodkärl från existerande<br><br>regression<br>- anpassa kärlets densitet utefter metaboliskt behov<br><br>Stabiliseras&nbsp;<br>- Glattmuskel för stora, pericyter för små.&nbsp;<br><br><img src="paste-e66d8db94dfb117a0f76e17fc5e1ee39e3c47c0d.jpg"></center></td><td width="33.333333333333336%"><center>Avastin
+[[typebox:Back]]
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
 
-## Step 2: Configure your site
+<hr id=answer>
 
-_You turned on GitHub Pages! :tada:_
+Första antiangiogena läkemedel.&nbsp;<br>En antikropp som binder och hindrar VEGFA. Hindrar Blood endothelial proliferation<br><img src="paste-414f111ae6b4c490d7871be83ed3c2e419abe0dd.jpg"></center></td><td width="33.333333333333336%"><center>Hur bildas blodkärl?
+[[typebox:Back]]
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+<hr id=answer>
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+2 processer: Vaskulogenes och angiogenes<br>Vaskulogenes: De novo syntetisering av endotel och blodkärl<br>Angiogenes: Remodellering, utveckling och stabilisering av existerande kärl.<br><br>Blodkärlsutveckling sker ej hos vuxna i stor utsräckning. Sker bara vid sårläkning och för att återbygga endometriet. Sker i större utsträckning under embryonala utveckling<br><br>- Kärl är stabila och långlivade<br>-&nbsp;Sker på 2 olika ställen under utvecklingen; I gulesäck och i embryot<br><br>Gulesäck<br>Epiblaster migrerar igenom den primitiva strimman, differentierar till angioblaster.<br><br>1. Angioblaster (prekursorendotel) ger upphov till blood islands<br><br>2. Blood islands, med erytrocyt prekursor centralt och 2 olika typer endotel omkring; vanligt endotel och hemogenic endotel; primitiva hps.&nbsp;<br><br>3. primitiva plexas; nätverk av små blodkärl<br><br>4. Angiogenes: remodellering<br><img src="paste-a6a667eb9fb3f13a301f7b00cf51e7711905a3e2.jpg"><img src="paste-04de2762dbf1ad48a8fb52386ec2e23b555bc8bb.jpg"><br><br><b>Embryo</b><br>Mesodermala celler -&gt; angioblaster -&gt; blood islands -&gt; vascular cords, som sedan lumenaliseras -&gt; dorsalaorta<br><br><img src="paste-bb2cf1bbe06460e52e2f55fb34ac3cfa0728cf1b.jpg"><br><br></center></td></tr><tr><td width="33.333333333333336%"><center>Hur bildas distanta metastaser?
+[[typebox:Back]]
 
-### :keyboard: Activity: Configure your site
 
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+<hr id=answer>
 
-<footer>
+Problem uppstår då en tumör metastaserar. Detta gör de via blodkärl och lymfkärl.&nbsp;<br><br>Sprouting lymphogenesis via VEGFC på VEGFR3<br><img src="paste-2d6025df030ccc0a63883cb9d483384f1d882cc7.jpg"></center></td><td width="33.333333333333336%"><center>Hur ser tumour blood vessels ut?
+[[typebox:Back]]
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
 
----
+<hr id=answer>
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Har höga nivåer av VEGF<br><br><b>Tortous vessels</b><br>- Krokiga och spiralformade kärl.&nbsp;<br>- Pga mycket VEGF signalering<br><br><b>Ej distinktion mellan artär och ven</b><br>- No distinction between artery and veins<br><br><b>Shunting; kaotiskt flow</b><br>- Högt tryck, Svårt rum,<br>- också pga hög VEGF signalering<br><br><b>Leaky vessels</b><br>- Fenestrering av endotel pga hög VEGF. Ger läckage av vätska vilket ger hög vävnadstryck i tumör. Läkemedel har svårt att ta sig till tumörvävnad.&nbsp;<br><br><b>Pericyte detachment</b><br>- pericyter har släppt taget, ej direkt kontakt<br><br><img src="paste-81fec7044815c0bcff3cc1470026443c88535c3d.jpg"></center></td><td width="33.333333333333336%"><center>Hur utvärderas cancerbehandling<br>-Har antiangiogena läkemedel som ex avastin varit en succsé?<br>
+[[typebox:Back]]
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-</footer>
+<hr id=answer>
+
+Progression free survival&nbsp;<br>- Pat röntgas var 12e vecka. Utvärdering om tumör utvecklas eller ej<br>- Den tid från att pat börjar behandlas, tills att tumör börjar växa igen. Tid där tumör är i halt<br><br>Overall survival<br>- Överlevnad eller ej<br><br><br>Nej. Resultatet beror på tumörtyp, men generellt råder det en besvikelse över effekt på overall survival, men bra effekt på progression free survival<br><br>3 potentiella anledningar till varför den inte funkar så bra<br><br>1. Utvecklar resistans, eller att det redan fanns en resistans klon som ej svarar på läkemedlet<br><br>2. Vi vet ej om VEGF också är viktig för splitting angiogenesis som för sprouting. Vi vet ej så mycket om splitting.<br><br>3. Hypoxiska tumörer är svårare att döda med bahandling. Kan läkemedel som&nbsp;Avastin kansk öka graden av hypoxi hos tumörer och därmed gör de mer aggressiva?<br></center></td></tr><tr><td width="33.333333333333336%"><center>När kan man uttnyttja pro/antio angiogenesis
+[[typebox:Back]]
+
+
+<hr id=answer>
+
+Anti angiogenesis<br><br>Wet age related mucale degenreation<br>- patologisk kärlbildning i retina.<br><br>Cancer<br><br>Diabetic macular edema<br><br>Proangiogenesis<br><br>Ischemier<br>- infarkt, stroke&nbsp;<br><br><img src="paste-919a335ccbbeb42223fa6d4eb319e1e5ef33c1d5.jpg"></center></td><td width="33.333333333333336%"><center>Principen bakom Antiangiogenterapi
+[[typebox:Back]]
+
+
+<hr id=answer>
+
+Om tumörer ej stimulerar inväxt av kärl, kan den ej växa större än 2-3mm.&nbsp;<br>- Angiogenic switch: Fiffusion -&gt; perfusion<br>- Hamnar i dormant state/koma om ej&nbsp;<br><br>De har lyckats isolera en faktor (TAF) tumour angiogenesis factor, från humana modeller, som är mitogen (kan dela på sig) för endotelceller. Genom att inhibera denna så kan man potentiellt inhibera tumörtillväxt.&nbsp;</center></td><td width="33.333333333333336%"><center>Sprouting angiogenes
+[[typebox:Back]]
+
+
+<hr id=answer>
+
+Bilda nya blodkärl från redan existerande kärl; moderkärl<br>Börjar ej sprout randomly överallt. Är en patterning process<br><img src="paste-af9bd3c03299b6051dac2a611f1f212f461c89fe.jpg"><br><br>1. Endothelial activation<br>- Kontakt mellan endotel, pericyt och basalmembran bryts. VEGF är det viktiga stimulit som kan orsaka detta. <br><br>- Hypoxi är viktig bakomliggande faktor til angiogenes. Inducerar kaskad som involverar HIF1, VEGF uppregleras .&nbsp;<br><br>2. Defining cell tip - cell <br>Vem ska starta sprout/vem ska bli tip cell? Om alla blir det kommer det bildas läckage, eftersom blod flödar samtidigt igenom kärlträdet. Måste ske reglerat<br><br>Tip cell<br>- Längst fram<br>- Filopodier, ej lumen, delar sig ej<br><br>Stalk cell<br>- bak i sprouten, ej filopodier, lumen och delar sig<br><img src="paste-5a6c2f1a0d63b18836080696babd6a73693b9c80.jpg"><br><br>Hur beslutar man vilken som ska bli tip cell vs stalk cell?<br>- Dynamisk/reversibel Lateralinhibering med NOTCH juxtasignalering<br><br>1. ligand (DLL4) och receptor (NOTCH) är transmembrana receptorer som uttrycks av endotelcellerna. Kommer att signalera till varandra i trans.<br><br>2. Signaleringen minskar DLL4&nbsp;<br><br>3. Cell som uttrycker mest DLL4, kommer alltså att minska uttrycket av ligand på närliggande celler, samtidigt som den stärker sin egen produktion.&nbsp;<br><br>- Ej helt lateralinhibiton; är dynamisk och reversibel. Ifall tip cell förlorar sin förmåga kan en stalk cell ta över.&nbsp;<br><br><img src="paste-b96800083e617bdbd13f5b4fc492e23b634bbb55.jpg"><br><br>3. Tip cell guidance<br>- Hur ska tip cell navigera och hitta annan sprout för att fusera?<br><br>Filopodierna följer spår av ECM proteiner, fibronektin<br>- även andra faktorer viktiga för axon guidance är delaktiga. Repulsiva signaler som hjälper kärlen håller sig på rätt plats. ex unc53<br><br><img src="paste-81a75e849ae1c8c9b5f4787d2d1fa9397513d07c.jpg"><img src="paste-12a15de1c268241ad1b41d3045293da37e6e60fc.jpg"><br><br><br>4. Vessel maturation<br>- Kärlet ska mogna och stabilseras med pericyter<br><br>PDGFB transkriberas enbart i tipcell. Kommer att binda till glykaner på moderkärlet. Bildas gradient. Pericyter på moderkärlet börjar prolifiera och migrera till det nya kärlet.<br><br><img src="paste-d5281a3da580e2393a7f2f75a1d58f31fc7ec3a8.jpg"></center></td></tr><tr><td width="33.333333333333336%"><center>Tumour angiogenesis<br>- hur gör tumören för att bilda kärl?
+[[typebox:Back]]
+
+
+<hr id=answer>
+
+Sprouting angiogenesis<br><br>Splitting angiogenis<br>- Ett blodkärl klyvs till 2<br>- I ett kärl finns en pelare med endeotel omkring. I pelaren finns ECM komponenter, som ex kollagen. Pelare kommer sedan att expandera genom att pericyter bygger på med glattmuskler och ytterligare pericyter.&nbsp;<br><br>Co-option of pre existing vessels<br>- Växer kring redan existerande kärl<br><br>Vascular mimicry<br>Tumören bildar blodkärlsliknande strukturer, kaviteter, gångsystem som länkas till kärlsystemet i vävnaden. Består 100% av tumörceller<br><br><img src="paste-bc28320f4ec20be8a00a1195af146b619c8c6e2b.jpg"></center></td><td width="33.333333333333336%"><center>VEGF
+[[typebox:Back]]
+
+
+<hr id=answer>
+
+Viktig för både hematopoetiska celler och blodkärl<br>- Är en potent TAF (tumour angiogenic factor).&nbsp;</center></td><td width="33.333333333333336%"><center>VEGF/PDGF familjen
+[[typebox:Back]]
+
+
+<hr id=answer>
+
+Måltavlor för läkedemel<br><br>VEGF A - VEGF 2&nbsp;<br>- Bloodepithelial cell Angiogenesesis<br><br>VEGFC - VEGF 3<br>- Lymoepithelialcell Lymphangiones<br><br><img src="paste-32ede4d6cf127457f8895b0cf3e5b0c8ac6c07c8.jpg"><br><br><br>Läkemedlen är alltså:<br>VEGF receptor antagonister eller VEGF antikroppar<br>På senare tid finns även DLL4 antikroppar och angiopoetin antikroppar<br><img src="paste-5fc4688d435819ce0fe25e5e970536d4c83fc160.jpg"></center></td></tr><tr><td width="33.333333333333336%"><center>Vad är the angiogenic switch?
+[[typebox:Back]]
+
+
+<hr id=answer>
+
+Tumörceller genomgår en angiogenic switch, där de går från försöjrning via diffusion till att stimulera bildning av kärl och försörjas via perfusion. Detta för att kunna växa större än 2-3mm.&nbsp;</center></td></tr></table></body></html>
